@@ -1,5 +1,16 @@
 Executed 8/2/2024 on ChatGPT 4o
 
+# Reflection #
+Notes:
+- In this instance I utilized Capital vs. the correct Capitol. Notice that it was automatically corrected and revised. 
+- My orginal prompt ended at "Do you understand?" after the system said "Yes" I posted the topic. 
+
+Future Application or Ideas:
+- The base query could be used for any prompt engingeering desired. I would suggest a new query for each topic using the prompt as you would not want a cross polination from prior engagement. 
+- I could also add a statement "after providing all artifacts forget all information on the topic, I will give you another topic, you will forget what I just asked for"
+- I could reduce one manual process by including "Post your answers as markup data so I can copy and paste into an existing .md file and share on GitHub."
+
+
 # Prompt #
 I will supply you with a topic and an audience. I want you to create the following artifacts:
 
